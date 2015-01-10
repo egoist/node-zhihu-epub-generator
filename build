@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-node app.js && pandoc output.html -o zhihu.epub
+node app.js && pandoc output.html -o output.epub
