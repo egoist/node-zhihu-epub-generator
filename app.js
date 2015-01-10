@@ -2,7 +2,6 @@ var fs = require('fs');
 var rest = require('restler');
 var forEach = require('async-foreach').forEach;
 var cheerio = require('cheerio');
-var pdc = require('pdc');
 
 
 
