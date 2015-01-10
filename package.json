@@ -1,5 +1,5 @@
 {
-  "name": "zhihudaily",
+  "name": "zhihu-epub",
   "version": "1.0.0",
   "description": "generate epub for zhihu",
   "main": "app.js",
