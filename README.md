@@ -2,6 +2,8 @@
 
 非全自动完成
 
+![generate](http://ww4.sinaimg.cn/large/a15b4afegw1eo5o220gjeg20ll0h1gp4.gif)
+
 0. have the Node.js and Pandoc installed in your environment.
 1. clone this repo.
 2. cd into the dir and type `chmod u+x build && npm install && ./build`
