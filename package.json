@@ -9,8 +9,8 @@
   "author": "0x142857<0x142857@gmail.com>",
   "license": "WTFPL",
   "dependencies": {
-    "async-foreach": "^0.1.3",
     "cheerio": "^0.18.0",
+    "eventproxy": "^0.3.2",
     "restler": "^3.2.2"
   }
 }
